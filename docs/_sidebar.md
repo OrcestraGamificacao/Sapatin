@@ -2,7 +2,7 @@
 - [Objetivos](pages/objetivos.md)
 
 - Html & CSS
-    - [PDF CSS](pages/template.md)
+    - [PDF CSS](https://drive.google.com/file/d/1yZJBL6KZVSuez9itREf0oMX5plA9iEwI/view?usp=sharing)
     - [PDF HTML](pages/template.md)
     - [Vídeoaula Ensinando responsividade](pages/template.md)
     - [Vídeoaula CSS](pages/template.md)
