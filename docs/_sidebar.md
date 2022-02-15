@@ -1,7 +1,7 @@
 - [Home](README.md)
 - [Objetivos](pages/objetivos.md)
 
-- Exemplo
+- Html & CSS
     - [Template](pages/template.md)
     - [Template](pages/template.md)
     - [Template](pages/template.md)
@@ -9,14 +9,16 @@
 
     
 
-- Exemplo
+- Manuais
     - [Template](pages/template.md)
     - [Template](pages/template.md)
     - [Template](pages/template.md)
     - [Template](pages/template.md)
 
 
-- Exemplo
+- Trilha NodeJs
     - [Template](pages/template.md)
+
+- Videos Complementares
 
 
