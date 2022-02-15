@@ -1,7 +1,7 @@
 - [Home](README.md)
 - [Objetivos](pages/objetivos.md)
 
--[Html & CSS](pages/html&css.md)
+-Html & CSS
     - [PDF CSS](https://drive.google.com/file/d/1yZJBL6KZVSuez9itREf0oMX5plA9iEwI/view?usp=sharing)
     - [PDF HTML](https://drive.google.com/file/d/1XjNTU14VKboPqd6TTJ4HXwnb3rlO-nR-/view?usp=sharing)
     - [Vídeoaula Ensinando responsividade](https://drive.google.com/file/d/1Q7GywOhNkJ8WCmmT6sJ_w8JHId9lRjgd/view?usp=sharing)
@@ -19,13 +19,13 @@
 
 
 - Trilha NodeJs
-    - [Aula 1: Introdução ao Back](pages/template.md)
-    - [Aula 2: Instalando bibliotecas](pages/template.md)
-    - [Aula 3: Estrutura de pastas](pages/template.md)
-    - [Aula 4: Conectando ao banco](pages/template.md)
-    - [Aula 5: Modelos (explicação)](pages/template.md)
-    - [Aula 6: Controllers](pages/template.md)
-    - [Aula 7: Rotas](pages/template.md)
+    - [Aula 1: Introdução ao Back](pages/aula1.md)
+    - [Aula 2: Instalando bibliotecas](pages/aula2.md)
+    - [Aula 3: Estrutura de pastas](pages/aula3.md)
+    - [Aula 4: Conectando ao banco](pages/aula4.md)
+    - [Aula 5: Modelos (explicação)](pages/aula5.md)
+    - [Aula 6: Controllers](pages/aula6.md)
+    - [Aula 7: Rotas](pages/aula7.md)
 
 - Videos Complementares
     - Docker
