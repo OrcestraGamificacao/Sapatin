@@ -1,7 +1,5 @@
 # Objetivos
 
-Este repositorio foi criado para servir como template para repositorios de documentação para projetos futuros.
-
-Sinta-se livre para criar um fork e utiliza-lo.
+Este repositorio foi criado para facilitar a organização dos materiais fornecidos pelo Sapatin
 
 ![Joinha](../assets/distraction_dance.gif)
