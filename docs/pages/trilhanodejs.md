@@ -4,8 +4,8 @@
 ## Aula 1: Introdução ao Back
    - [PDF de Introdução ao Back](https://drive.google.com/file/d/1WVlzfzpikH5GeNE170FVXcerFdxPFQ6P/view?usp=sharing)
    - [Vídeo de Introdução ao Back](https://drive.google.com/file/d/1qsyE4PIAQxDVySDuAJ-Q7A1y26HJLoUM/view?usp=sharing)
-   
-   
+
+  
 ## Aula 2: Instalando bibliotecas
    - [Vídeo Instalando bibliotecas](https://drive.google.com/file/d/1-VOUPpTD0wZGVhJXL8boo4aqbuDYlh1P/view?usp=sharing)
 
