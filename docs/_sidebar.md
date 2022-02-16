@@ -19,7 +19,7 @@
     - [Manual React](https://drive.google.com/file/d/1kMBfMH3GFWijuI5BoyY23egXdFkFBq5L/view?usp=sharing)
 
 
-- [Trilha NodeJs](pages/trilhanodejs)
+- [Trilha NodeJs](pages/trilhanodejs.md)
 
 - Videos Complementares
     - Docker
