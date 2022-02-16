@@ -6,7 +6,7 @@
 - Aula 2: Instalando bibliotecas
     - [Vídeo Instalando bibliotecas](https://drive.google.com/file/d/1-VOUPpTD0wZGVhJXL8boo4aqbuDYlh1P/view?usp=sharing)
  - Aula 3: Estrutura de pastas
-    -[Vídeo de Estruturas de pastas](https://drive.google.com/file/d/1-VOUPpTD0wZGVhJXL8boo4aqbuDYlh1P/view?usp=sharing)
+    - [Vídeo de Estruturas de pastas](https://drive.google.com/file/d/1-VOUPpTD0wZGVhJXL8boo4aqbuDYlh1P/view?usp=sharing)
  - Aula 4: Conectando ao banco
     - [Vídeo conectando ao banco - parte 1](https://drive.google.com/file/d/1nL5leo-jZMTK-JmkhOh6NrSYixcDVI-k/view?usp=sharing)
     - [Vídeo conectando ao banco - parte 1](https://drive.google.com/file/d/1Lb0wOxwZyXVpxxND97fQlV0eUm-lt_NT/view?usp=sharing)
