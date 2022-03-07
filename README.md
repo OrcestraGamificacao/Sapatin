@@ -4,7 +4,7 @@
    
    |  Autor | Descrição | Data | Versão |
 |--|--|--|--|
-| [Gustavo Malta](https://github.com/gfmalta) e Gustavo Kenzo | | 06/03/2022| |
+| [Gustavo Malta](https://github.com/gfmalta) e Gustavo Kenzo | Criação de ista de contribuidores | 06/03/2022| |
 
 
 
