@@ -1,6 +1,10 @@
 # Sapatin
 
    Materiais de capacitação criados pela equipe de capacitação da Orc'estra Gamificação.
+   
+   |  Autor | Descrição | Data | Versão |
+|--|--|--|--|
+| [Gustavo Malta](https://github.com/gfmalta) e Gustavo Kenzo | | 06/03/2022| |
 
 
 
