@@ -17,12 +17,10 @@
     - [Vídeoaula CSS 2](https://drive.google.com/file/d/1oiH1ymOcNOOLwz_TnDs4x4a8nJ_oqcie/view?usp=sharing)
     - [Treinamento HTML 1º Dia](https://drive.google.com/file/d/1lebbo5UstHkvawerWyM07qBhPnkeqLmX/view?usp=sharing)
     - [Treinamento CSS](https://drive.google.com/file/d/1KwfewC1-ZlTmJFK8etgY8G322JEFwu7D/view?usp=sharing) 
-
-- Manuais
-    - [Manual Git](https://drive.google.com/file/d/1kuHOcurwMoeKrfV3SgZ6Ohwi9vEjpYja/view?usp=sharing)
     - [Manual HTML & CSS](https://drive.google.com/file/d/1Vf0KW0sdJQbD5Dk-0Ya0yQNhVT9TJ6T_/view?usp=sharing)
+
+- JavaScript
     - [Manual JS](https://drive.google.com/file/d/1GaA0MZozIcu_iH1ffCKzjSob90Yucgkp/view?usp=sharing)
-    - [Manual LinkedIn](https://drive.google.com/file/d/1-Nhr1eGVr_Oo8F5lZXpRo6R1hloXFzJk/view?usp=sharing)  
     - [Manual React](https://drive.google.com/file/d/1kMBfMH3GFWijuI5BoyY23egXdFkFBq5L/view?usp=sharing)
 
 - [Trilha NodeJs](pages/trilhanodejs.md)
@@ -30,9 +28,15 @@
 - [Curso API](https://drive.google.com/drive/folders/0B3HPMHfYJregd1I2YTdfRHI4OW8?resourcekey=0-yz4k9ncSMuI9gYHXgkhMdA&usp=sharing)
 
 - Linkedin
-    - [Manual Linux](https://drive.google.com/file/d/1h3tH2hV3IbYWCrhrau0AftWlwDiIAWUz/view?usp=sharing)
+    - [Manual LinkedIn](https://drive.google.com/file/d/1-Nhr1eGVr_Oo8F5lZXpRo6R1hloXFzJk/view?usp=sharing) 
     - [Treinamento](https://drive.google.com/file/d/13YJRLbWUwXQhKWcNP2nbsItNGA9VJ2L_/view?usp=sharing)
     - [Slides do Treinamento](https://drive.google.com/file/d/1Dhbeu7ZQD0xpcf3ovW0NPfSBWc84_PJv/view?usp=sharing)
+
+- Git
+    - [Manual Git](https://drive.google.com/file/d/1kuHOcurwMoeKrfV3SgZ6Ohwi9vEjpYja/view?usp=sharing)
+
+- Linux
+    - [Manual Linux](https://drive.google.com/file/d/1h3tH2hV3IbYWCrhrau0AftWlwDiIAWUz/view?usp=sharing)
 
 - [Docker](https://drive.google.com/file/d/1zrQk-DeUxyDaRV0VMHoS-CdOr1QnteCM/view?usp=sharing)
 
