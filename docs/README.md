@@ -1,10 +1,10 @@
 # Sapatin
 
-<h1 style="text-align: center">
+<h4 style="text-align: center">
    O Github Pages é um projeto do squad de capacitação interna, o Sapatin, que tem como intuito de ter nossos materiais de estudos mais visíveis e de fácil acesso para todos os membros. <br>
 <br>
    Tivemos essa ideia quando sempre iríamos procurar algo para nos capacitar e não sabíamos onde ou como procurar. Pensando em algo simples e intuitivo para qualquer um, em que todos os conteúdos do nosso Drive estão organizados de uma forma criativa! Orc, lembre-se que evoluir é sempre é a melhor forma de alcançar seus resultados com maestria, capacitação é sempre um investimento de tempo, nunca uma perda. 
-</h1>
+</h4>
 
 ## Html & CSS
    - [PDF CSS](https://drive.google.com/file/d/1yZJBL6KZVSuez9itREf0oMX5plA9iEwI/view?usp=sharing)
