@@ -6,6 +6,6 @@
 	Qualquer um atrelado ao repositório, pode adicionar capacitações aqui, usando a linguagem Markdown. Apenas pedimos 2 coisas:
   1. Sempre deixem o ambiente organizado e limpo, não adicionando algo que afetaria o trabalho feito.
   2. Atualizem o “Guia de Contribuição”, colocando seu nome, o que contribuiu e a data. <br>
-	<div style:"color:#9ACD32">O objetivo do Spatin será sempre ajudar vocês</div>
+	<div style="color:#9ACD32">O objetivo do Sapatin será sempre ajudar vocês</div>
 </h4>
 
