@@ -6,11 +6,6 @@
    Tivemos essa ideia quando sempre iríamos procurar algo para nos capacitar e não sabíamos onde ou como procurar. Pensando em algo simples e intuitivo para qualquer um, em que todos os conteúdos do nosso Drive estão organizados de uma forma criativa! Orc, lembre-se que evoluir é sempre é a melhor forma de alcançar seus resultados com maestria, capacitação é sempre um investimento de tempo, nunca uma perda. 
 </div>
 
-  |  Autor | Descrição | Data | Versão |
-|--|--|--|--|
-| [Gustavo Malta](https://github.com/gfmalta) e [Gustavo Kenzo](https://github.com/gustavokenzo1) | Criação de tabela de atualizações | 06/03/2022| 1.0|
-
-
 ## Html & CSS
    - [PDF CSS](https://drive.google.com/file/d/1yZJBL6KZVSuez9itREf0oMX5plA9iEwI/view?usp=sharing)
    - [PDF HTML](https://drive.google.com/file/d/1XjNTU14VKboPqd6TTJ4HXwnb3rlO-nR-/view?usp=sharing)
