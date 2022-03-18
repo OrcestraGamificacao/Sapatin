@@ -34,6 +34,7 @@
 
 - Git
     - [Manual Git](https://drive.google.com/file/d/1kuHOcurwMoeKrfV3SgZ6Ohwi9vEjpYja/view?usp=sharing)
+    - [Treinamento Git](https://drive.google.com/drive/u/0/folders/1Vy4zH6rCGOCAk8pBRA5Yt8dw89bBLs9B)
 
 - Linux
     - [Manual Linux](https://drive.google.com/file/d/1h3tH2hV3IbYWCrhrau0AftWlwDiIAWUz/view?usp=sharing)
