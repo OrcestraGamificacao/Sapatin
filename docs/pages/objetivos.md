@@ -5,8 +5,7 @@
 	Vale ressaltar que se em uma das trilhas foi mencionado que no final dela irá ter um certificado, só ganhará o certificado se você participar no período de dias decidido para a realização da trilha, ao final desses dias, não terá como possuir o tal certificado.<br>
 	Qualquer um atrelado ao repositório, pode adicionar capacitações aqui, usando a linguagem Markdown. Apenas pedimos 2 coisas:
   1. Sempre deixem o ambiente organizado e limpo, não adicionando algo que afetaria o trabalho feito.
-  2. Atualizem o “Guia de Contribuição”, colocando seu nome, o que contribuiu e a data.
-
-O objetivo do Spatin será sempre ajudar vocês
+  2. Atualizem o “Guia de Contribuição”, colocando seu nome, o que contribuiu e a data. <br>
+	<div style:"color:#9ACD32">O objetivo do Spatin será sempre ajudar vocês</div>
 </h4>
 
