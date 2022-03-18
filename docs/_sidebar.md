@@ -40,4 +40,5 @@
     - [Vídeo de Scrum](https://drive.google.com/file/d/1moY6bRQ54SPazyNlSFTTt3dx1CffGTmZ/view?usp=sharing)
     - [PDF de Scrum](https://drive.google.com/file/d/1L3b2NGfOqQSar3Go_qUry-YWSorOwsoM/view?usp=sharing)
 
+- [Guia de contribuição](pages/guia.md)
 
