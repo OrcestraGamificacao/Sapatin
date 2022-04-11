@@ -38,6 +38,7 @@
 
 - Linux
     - [Manual Linux](https://drive.google.com/file/d/1h3tH2hV3IbYWCrhrau0AftWlwDiIAWUz/view?usp=sharing)
+    - [Instalação Linux](https://drive.google.com/file/d/15udkpHb-Nnq-rX8mmUl6-CbPVz1wypoN/view?usp=sharing)
 
 - [Docker](https://drive.google.com/file/d/1zrQk-DeUxyDaRV0VMHoS-CdOr1QnteCM/view?usp=sharing)
 
