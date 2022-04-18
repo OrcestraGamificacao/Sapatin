@@ -16,7 +16,7 @@
 
 ## Aula 4: Conectando ao banco
    - [Vídeo conectando ao banco - parte 1](https://drive.google.com/file/d/1nL5leo-jZMTK-JmkhOh6NrSYixcDVI-k/view?usp=sharing)
-   - [Vídeo conectando ao banco - parte 1](https://drive.google.com/file/d/1Lb0wOxwZyXVpxxND97fQlV0eUm-lt_NT/view?usp=sharing)
+   - [Vídeo conectando ao banco - parte 2](https://drive.google.com/file/d/1Lb0wOxwZyXVpxxND97fQlV0eUm-lt_NT/view?usp=sharing)
 
 
 ## Aula 5: Modelos (explicação)
